@@ -37,3 +37,10 @@ find out if the asynchronous operation is successfully completed or not.
 
 1. Promaise
  ![](/Screenshot_7.png)
+
+> #### TRY / CATCH
+
+![](/Screenshot_8.png)
+
+> #### Async await
+![](/Screenshot_9.png)
